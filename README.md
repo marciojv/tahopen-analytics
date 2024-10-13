@@ -25,28 +25,6 @@ Then remove the backups with:
 find . -name "*.versionsBackup" -type f -delete
 ```
 
-## Get Saiku License
-
-Saiku is open source and free to use. Our default server does ship with a license server installed. To get a license you can visit https://licensing.meteorite.bi and get a FREE license which is pinned to the major release of the server. This helps us with a more accurate picture of installation numbers and deployments.
-
-## Wiki
-
-* [Saiku Wiki](https://saiku-documentation.readthedocs.io/en/latest/)
-
-## Community
-
-* [Saiku Community](https://community.meteorite.bi/)
-
-## Bugs and Feature Requests
-
-* [GitHub Issues](https://github.com/OSBI/saiku/issues/new)
-
-## Discussion List
-
-* [Saiku Dev Group](https://groups.google.com/a/saiku.meteorite.bi/forum/#!forum/dev)
-* [Saiku User Group](https://groups.google.com/a/saiku.meteorite.bi/forum/#!forum/user)
-* [Stack Overflow](https://stackoverflow.com/questions/tagged/saiku)
-* [Freenode IRC - Channel: ##saiku](https://webchat.freenode.net/?randomnick=1&channels=%23%23saiku)
 
 ## Browser Support
 
@@ -56,7 +34,7 @@ We do care about it.
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | Latest ✔                                                                                      | Latest ✔                                                                                 | Latest ✔                                                                                    | Latest ✔                                                                              | Latest ✔                                                                                 |
 
-## Team
+## Team of Saiku (this is a original team before fork)
 
 [Saiku](https://www.meteorite.bi) is maintained by these people and a bunch of awesome [contributors](https://github.com/OSBI/saiku/graphs/contributors).
 
@@ -68,11 +46,6 @@ We do care about it.
 
 Check [CONTRIBUTING.md](./CONTRIBUTING.md) for more details. Some important information:
 
-* To get started, [sign the Contributor License Agreement](https://www.clahub.com/agreements/OSBI/saiku).
-
-* If you find a bug then please create an issue [here](https://github.com/OSBI/saiku/issues/new).
-
-* If you have a feature request, then please get in touch. We'd love to hear from you! Send a email for: [info@meteorite.bi](mailto:info@meteorite.bi)
 
 ## History
 
