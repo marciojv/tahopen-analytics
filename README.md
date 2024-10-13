@@ -1,47 +1,5 @@
-<a href="#readme"></a>
 
-<!-- [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a5a3157a6798401e980a5aabe37f3ede)](https://www.codacy.com/app/Spicule/saiku?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=OSBI/saiku&amp;utm_campaign=Badge_Grade) -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/OSBI/saiku/assets/L.png" align="left">
-  <img src="https://raw.githubusercontent.com/OSBI/saiku/assets/R.png" align="right">
-  <b>
-    When something doesn't work as expected, then please subscribe to the
-    <a href="https://groups.google.com/a/saiku.meteorite.bi/forum/#!forum/user">Saiku User Group list</a>
-    and send your doubt. If that doesn't solve your problem, then please ask for help on
-    <a href="https://groups.google.com/a/saiku.meteorite.bi/forum/#!forum/dev">Saiku Dev Group</a>.
-  </b>
-</p>
-
-***
-
-<h1 align="center"><a href="https://www.meteorite.bi/products/saiku">Saiku Analytics</a></h1>
-<h2 align="center">The world's greatest open source OLAP browser</h2>
-<p align="center"><a href="https://www.meteorite.bi/products/saiku"><img src="https://raw.githubusercontent.com/OSBI/saiku/assets/saiku-demo-1.jpg"/></a></p>
-<hr />
-<p align="center">
-  <a href="https://www.meteorite.bi"><b>Homepage</b></a> |
-  <a href="https://licensing.meteorite.bi"><b>Saiku License</b></a> |
-  <a href="https://saiku-documentation.readthedocs.io/en/latest/"><b>Wiki</b></a> |
-  <a href="https://community.meteorite.bi/"><b>Community</b></a> |
-  <a href="https://groups.google.com/a/saiku.meteorite.bi/forum/#!forum/dev"><b>Mailing List</b></a> |
-  <a href="https://webchat.freenode.net/?randomnick=1&channels=%23%23saiku"><b>Chat</b></a> |
-  <a href="https://twitter.com/SaikuAnalytics"><b>News</b></a>
-</p>
-
-***
-
-<p align="justify">
-  Saiku allows business users to explore complex data sources,
-  using a familiar drag and drop interface and easy to understand
-  business terminology, all within a browser. Select the data you
-  are interested in, look at it from different perspectives,
-  drill into the detail. Once you have your answer, save your results,
-  share them, export them to Excel or PDF, all straight from the browser.
-  <a href="https://www.meteorite.bi">(more)</a>
-</p>
-
-***
+Fork of Saiku in process!!!
 
 ## Setup
 
